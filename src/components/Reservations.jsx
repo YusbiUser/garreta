@@ -10,7 +10,7 @@ export default function Reservations() {
           className="grid gap-6"
         >
           {/* REPLACE WITH YOUR WEB3FORMS ACCESS KEY */}
-          <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY" />
+          <input type="hidden" name="access_key" value="bfea8943-86ef-45a3-b160-bd3cb52d57ce" />
 
           <input
             type="text"

@@ -7,7 +7,7 @@ export default function Gallery() {
         <div className="grid md:grid-cols-3 gap-6">
           <img src="/images/gallery-1.jpg" className="h-[500px] object-cover w-full rounded-xl" />
           <img src="/images/gallery-2.jpg" className="h-[500px] object-cover w-full rounded-xl" />
-          <img src="/images/placeholder.jpg" className="h-[500px] object-cover w-full rounded-xl" />
+          <img src="/images/gallery-3.jpg" className="h-[500px] object-cover w-full rounded-xl" />
         </div>
       </div>
     </section>
